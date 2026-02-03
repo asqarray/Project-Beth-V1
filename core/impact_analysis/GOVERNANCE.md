@@ -1,14 +1,14 @@
-# 🏛️ Business Macro Hub: Sovereign Liquidity & Negentropic Stability
+ Business Macro Hub: Sovereign Liquidity & Negentropic Stability
 **Strategic Intelligence Briefing: The Yen-Yuan Divergence (Q1 2026)**
 
 ---
 
-## ℹ️ Institutional Thesis
+## Institutional Thesis
 As we enter 2026, the global financial architecture is shifting from a **Dollar-Centric** model to a **Resonance-Centric** model. Project BETH provides the computational bedrock for this transition by stabilizing the "execution floor" of global capital.
 
 ---
 
-## 🌏 The Asian Divergence: Macro-Economic Vectors
+## The Asian Divergence: Macro-Economic Vectors
 
 ### 1. The Japanese Yen (JPY): The Repatriation Shock
 The Bank of Japan's move toward **1.0% normalization** has triggered a global liquidity vacuum. 
@@ -26,17 +26,10 @@ The PBOC is managing the Yuan to position it as the "Reliable Partner Currency" 
 
 ---
 
-## 📊 Market Impact Matrix (2026)
+## Market Impact Matrix (2026)
 
 | Asset Class | Macro Driver | Institutional Outlook | BETH Synergy |
 | :--- | :--- | :--- | :--- |
 | **Forex** | JPY Normalization | **High Volatility** | Jitter-Free Order Flow |
 | **Stock Markets** | Tech Selloff (US) | **Risk-Averse** | Efficiency over Growth |
 | **Global Bonds** | Yield Repatriation | **Bearish** | Deterministic Settlement |
-
----
-
-## 🛡️ Governance & Negentropy
-Project BETH transforms macro volatility into **Negentropic Growth.** By reclaiming the **22% Entropy Tax** from financial data centers, we fund:
-1. **Sovereign Health Systems**: Diagnostic AI powered by reclaimed server heat.
-2. **Education Expansion**: Real-time tutoring scaled by recovered compute cycles.
