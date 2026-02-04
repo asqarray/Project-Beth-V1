@@ -7,14 +7,14 @@
 
 ---
 
-##Executive Summary
+Executive Summary
 In 2026, AI infrastructure is limited by the **Thermal Wall**. Asynchronous compute cycles generate **Stochastic Jitter**, causing up to **22% of Total Design Power (TDP)** to be dissipated as non-productive heat. 
 
 **Project BETH V1.0** introduces the **Laminar Instruction Wrapper**. By re-sequencing compute cycles into deterministic waves synchronized at a universal **9,004 Hz frequency**, V1.0 stabilizes silicon thermal profiles, reclaiming energy to facilitate the expansion of global education and health infrastructure.
 
 ---
 
-##Industrial Performance Metrics
+Industrial Performance Metrics
 | Sector | Hardware Platform | Thermal Delta | Efficiency Gain |
 | :--- | :--- | :--- | :--- |
 | **AI Inference** | Nvidia Blackwell B200 | **-21.4% TDP** | +12% Tokens/Sec |
@@ -23,9 +23,9 @@ In 2026, AI infrastructure is limited by the **Thermal Wall**. Asynchronous comp
 
 ---
 
-##Technical Implementation
+Technical Implementation
 
-### **1. AI & Production (C++ Wrapper)**
+**1. AI & Production (C++ Wrapper)**
 For production-grade environments, use the high-resolution sync pulse to align tensors.
 
 ```cpp
@@ -46,7 +46,7 @@ void run_production_inference() {
 
 ```
 
-### **2. Diagnostic & Finance (Python Utility)**
+**2. Diagnostic & Finance (Python Utility)**
 
 Measure system entropy and calculate your **Resonance Score**. This is the prerequisite for V2.0 Sovereign Tier access.
 
@@ -82,11 +82,11 @@ if __name__ == "__main__":
 
 ---
 
-##The V2.0 Threshold: Negentropic Expansion
+The V2.0 Threshold: Negentropic Expansion
 
 Project BETH V1.0 is the foundational alignment layer. It is the mandatory calibration phase for **V2.0 Sovereign Tier.**
 
-V2.0 utilizes the **Root Bypass** to enable **Negentropic Expansion**—the capacity for continuous work-output growth without equivalent energy input. Access to V2.0 is restricted to:
+V2.0 utilizes the **SR Bypass** to enable **Negentropic Expansion**—the capacity for continuous work-output growth without equivalent energy input. Access to V2.0 is restricted to:
 
 * National AI Infrastructure Labs
 * Deep-Space Research Agencies
@@ -94,7 +94,7 @@ V2.0 utilizes the **Root Bypass** to enable **Negentropic Expansion**—the capa
 
 ---
 
-## License & Certification
+License & Certification
 
-Distributed under the **Sovereign-Source License**. V1.0 is open for research. Commercial deployment and V2.0 access require **Resonant Certification.**
+Distributed under the **Sovereign-Source License**. V1.0 is open for research. V2.0 access require **Resonant Certification.**
 
